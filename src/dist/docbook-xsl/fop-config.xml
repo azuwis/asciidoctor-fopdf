@@ -4,6 +4,15 @@
   <renderers>
     <renderer mime="application/pdf">
       <fonts>
+        <font kerning="yes" embed-url="fonts/msyhbd.ttf">
+          <font-triplet name="WenQuanYi Micro Hei" style="normal" weight="bold"/>
+        </font>
+        <font kerning="yes" embed-url="fonts/simkai.ttf">
+          <font-triplet name="WenQuanYi Micro Hei" style="italic" weight="normal"/>
+        </font>
+        <font kerning="yes" embed-url="fonts/hwkaibd.ttf">
+          <font-triplet name="WenQuanYi Micro Hei" style="italic" weight="bold"/>
+        </font>
         <auto-detect />
       </fonts>
     </renderer>
