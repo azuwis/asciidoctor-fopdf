@@ -48,15 +48,15 @@
   -->
 
   <xsl:template name="pickfont-sans">
-    <xsl:text>Arial,sans-serif</xsl:text>
+    <xsl:text>Arimo,Arial,sans-serif,WenQuanYi Micro Hei</xsl:text>
   </xsl:template>
 
   <xsl:template name="pickfont-serif">
-    <xsl:text>Georgia,serif</xsl:text>
+    <xsl:text>Tinos,Georgia,serif,WenQuanYi Micro Hei</xsl:text>
   </xsl:template>
 
   <xsl:template name="pickfont-mono">
-    <xsl:text>Liberation Mono,Courier New,Courier,monospace</xsl:text>
+    <xsl:text>Cousine,Liberation Mono,Courier New,Courier,monospace,WenQuanYi Micro Hei</xsl:text>
   </xsl:template>
 
   <xsl:template name="pickfont-dingbat">
