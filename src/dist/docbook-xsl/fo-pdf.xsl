@@ -56,7 +56,7 @@
   </xsl:template>
 
   <xsl:template name="pickfont-mono">
-    <xsl:text>Cousine,Liberation Mono,Courier New,Courier,monospace,WenQuanYi Micro Hei</xsl:text>
+    <xsl:text>Cousine,Liberation Mono,Courier New,Courier,monospace,WenQuanYi Micro Hei Mono</xsl:text>
   </xsl:template>
 
   <xsl:template name="pickfont-dingbat">
